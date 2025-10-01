@@ -1,9 +1,9 @@
-import abstract_algebra.Group;
-import set.SetRoaster;
+package maths;
+
+import maths.abstract_algebra.Group;
+import maths.set.SetRoaster;
 
 import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
 import java.util.function.BinaryOperator;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;

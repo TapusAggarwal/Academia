@@ -1,4 +1,4 @@
-package set;
+package maths.set;
 
 import java.util.Objects;
 

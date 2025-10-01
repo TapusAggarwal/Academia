@@ -1,4 +1,4 @@
-package abstract_algebra;
+package maths.abstract_algebra;
 
 import java.util.function.BinaryOperator;
 

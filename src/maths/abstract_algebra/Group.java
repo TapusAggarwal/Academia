@@ -1,6 +1,6 @@
-package abstract_algebra;
+package maths.abstract_algebra;
 
-import set.*;
+import maths.set.*;
 
 import java.util.*;
 import java.util.function.BinaryOperator;

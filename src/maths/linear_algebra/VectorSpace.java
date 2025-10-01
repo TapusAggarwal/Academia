@@ -1,7 +1,7 @@
-package linear_algebra;
+package maths.linear_algebra;
 
-import abstract_algebra.Field;
-import set.SetRoaster;
+import maths.abstract_algebra.Field;
+import maths.set.SetRoaster;
 
 import java.util.function.BiFunction;
 import java.util.function.BinaryOperator;

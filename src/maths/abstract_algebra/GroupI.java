@@ -1,6 +1,6 @@
-package abstract_algebra;
+package maths.abstract_algebra;
 
-import set.SetRoaster;
+import maths.set.SetRoaster;
 import java.util.Map;
 import java.util.Objects;
 import java.util.function.BinaryOperator;

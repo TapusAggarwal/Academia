@@ -1,4 +1,4 @@
-package abstract_algebra;
+package maths.abstract_algebra;
 
 public class InvalidGroupException extends RuntimeException {
     public InvalidGroupException(String message) {

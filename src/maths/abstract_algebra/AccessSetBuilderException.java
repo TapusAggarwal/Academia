@@ -1,4 +1,4 @@
-package abstract_algebra;
+package maths.abstract_algebra;
 
 public class AccessSetBuilderException extends RuntimeException {
     public AccessSetBuilderException(String message) {
